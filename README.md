@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justNady&label=Profile%20views&color=0e75b6&style=flat" alt="justNady" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justNady&theme=apprentice" alt="justNady" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justNady&theme=onedark" alt="justNady" /></a> </p>
 
 - 💬 Ask me about **Anything you want !**
 - 📫 How to reach me **muhammednadyii@gmail.com**
@@ -12,7 +12,7 @@
 <a href = "mailto:muhammednadyii@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammed-nady-3033a930a" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="mohammed-nady-3033a930a" height="30" width="40" /></a><a href="https://codeforces.com/profile/justNady" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="justNady" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/mohammed-nady-3033a930a" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="mohammed-nady-3033a930a" height="30" width="40" /></a><a href="https://fb.com/Mohamed.nady.46" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Mohamed.nady.46" height="30" width="40" /></a><a href="https://codeforces.com/profile/justNady" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="justNady" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -22,6 +22,8 @@
 </p>
 
 <h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justNady&layout=compact&theme=dark" alt=justNady />
+
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=justNady&show_icons=true&locale=en&theme=dark" alt="justNady" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=justNady&theme=dark" alt="justNady" /></p>
